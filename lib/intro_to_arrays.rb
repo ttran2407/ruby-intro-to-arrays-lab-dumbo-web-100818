@@ -11,8 +11,8 @@ def indexing
   first_element = taylor_swift[0]
   third_element = taylor_swift[2]
   last_element = taylor_swift[-1]
-  taylor_swift.first
-  taylor_swift.last
-  taylor_swift.size
+  first_element_with_array_methods = taylor_swift.first
+  last_element_with_array_methods = taylor_swift.last
+  length_of_array = taylor_swift.size
 end
 
