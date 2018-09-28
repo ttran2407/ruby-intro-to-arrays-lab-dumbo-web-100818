@@ -9,23 +9,23 @@ end
 
 
 def first_element (array)
-  taylor_swift[0]
+  array[0]
 end
   
 def third_element (array)
-  taylor_swift[2]
+  array[2]
 end
   
 def last_element (array)
-  taylor_swift[-1]
+  array[-1]
 end
 def first_element_with_array_methods (array)
-  taylor_swift.first
+  array.first
 end
 def last_element_with_array_methods (array)
-  taylor_swift.last
+  array.last
 end
 def length_of_array (array)
-  taylor_swift.size
+  array.size
 end
 
